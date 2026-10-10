@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "a2f41668-4bfa-429d-b166-3abc620d0265",
+      "question": "What is Python?",
+      "answer": "Python is a programming language.",
+      "category": "Imported",
+      "source": "Import",
+      "created_at": "2026-10-09T23:59:26",
+      "updated_at": "2026-10-09T23:59:26"
+    }
+  ]
+}

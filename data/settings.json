@@ -1,0 +1,8 @@
+{
+    "bot_name": "YuiBot",
+    "personality": "Friendly",
+    "fuzzy_matching": true,
+    "memory_enabled": true,
+    "context_enabled": true,
+    "show_statistics": true
+}

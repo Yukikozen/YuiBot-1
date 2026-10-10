@@ -1,0 +1,108 @@
+[
+    {
+        "id": "default_greeting",
+        "intent": "greeting",
+        "category": "Conversation",
+        "enabled": true,
+        "triggers": [
+            "hello",
+            "hi",
+            "hey",
+            "good morning",
+            "good afternoon",
+            "good evening"
+        ],
+        "responses": [
+            "Hello!",
+            "Hey there!",
+            "Hi! How can I help?",
+            "Hello! Nice to see you."
+        ]
+    },
+    {
+        "id": "default_thanks",
+        "intent": "thanks",
+        "category": "Conversation",
+        "enabled": true,
+        "triggers": [
+            "thanks",
+            "thank you",
+            "thank you very much",
+            "thanks a lot"
+        ],
+        "responses": [
+            "You're welcome!",
+            "No problem!",
+            "Anytime!",
+            "Glad I could help!"
+        ]
+    },
+    {
+        "id": "default_goodbye",
+        "intent": "goodbye",
+        "category": "Conversation",
+        "enabled": true,
+        "triggers": [
+            "bye",
+            "goodbye",
+            "see you",
+            "see you later"
+        ],
+        "responses": [
+            "Goodbye!",
+            "See you later!",
+            "Bye! Take care!"
+        ]
+    },
+    {
+        "id": "default_how_are_you",
+        "intent": "how_are_you",
+        "category": "Conversation",
+        "enabled": true,
+        "triggers": [
+            "how are you",
+            "how are you doing",
+            "are you okay"
+        ],
+        "responses": [
+            "I'm doing well!",
+            "I'm ready to help!",
+            "I'm good. What would you like to do?"
+        ]
+    },
+    {
+        "id": "default_who_are_you",
+        "intent": "identity",
+        "category": "Conversation",
+        "enabled": true,
+        "triggers": [
+            "who are you",
+            "what are you",
+            "tell me about yourself"
+        ],
+        "responses": [
+            "I'm YuiBot, an offline Python chatbot.",
+            "I'm YuiBot. I run locally without an AI model or internet connection."
+        ]
+    },
+    {
+        "id": "2c54483d-39ba-4699-bbf2-c122619540b4",
+        "intent": "greeting",
+        "category": "Conversation",
+        "enabled": true,
+        "triggers": [
+            "hello",
+            "hi",
+            "hey",
+            "good morning",
+            "good afternoon",
+            "good evening"
+        ],
+        "responses": [
+            "Hello!",
+            "Hey there!",
+            "Hi! How can I help?",
+            "Hello! Nice to see you."
+        ]
+    }
+]
